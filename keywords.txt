@@ -1,0 +1,8 @@
+HT1621	KEYWORD1
+begin	KEYWORD2
+sendCommand	KEYWORD2
+write	KEYWORD2
+clearDisp	KEYWORD2
+inWrite	KEYWORD2
+specialSeg	KEYWORD2
+adWrite	KEYWORD2
